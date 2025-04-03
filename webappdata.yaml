@@ -1,0 +1,10 @@
+Resources:
+  Web:
+    Type: AWS::EC2::Instance
+    Properties: {}
+  Application:
+    Type: AWS::EC2::Instance
+    Properties: {}
+  Database:
+    Type: AWS::EC2::Instance
+    Properties: {}
